@@ -87,11 +87,6 @@ responses = {
     "receipt_amounts": []
 }
 
-# ...
-
-# Initialize an empty list to store the receipt amounts
-responses["receipt_amounts"] = []
-
 # Iterate over the range 39 through 42
 for i in range(39, 43):
     # Check if the receipt amount exists
